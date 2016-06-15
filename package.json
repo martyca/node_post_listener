@@ -4,7 +4,8 @@
   "description": "listen to posts and print them on the console.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/martyca/node_post_listener",
   "dependencies": {
+    "body-parser": "^1.15.1",
     "express": "^4.13.4"
   }
 }
