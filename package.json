@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/martyca/node_post_listener/issues"
   },
-  "homepage": "https://github.com/martyca/node_post_listener"
+  "homepage": "https://github.com/martyca/node_post_listener",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
