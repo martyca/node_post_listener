@@ -1,0 +1,19 @@
+{
+  "name": "node_post_listener",
+  "version": "1.0.0",
+  "description": "listen to posts and print them on the console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:martyca/node_post_listener.git"
+  },
+  "author": "Martin Caarels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martyca/node_post_listener/issues"
+  },
+  "homepage": "https://github.com/martyca/node_post_listener"
+}
